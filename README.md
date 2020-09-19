@@ -1,7 +1,7 @@
 # genossenschaft
 ## Businessplan Genossenschaftsmodell für Umweltmanagement
 
-Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für lokal/reguional organisierte und überregional agierende Genossenschaften für Umweltmanagement zu entwickeln. Die Basis bildet ein interdiszipilnäres Team z.B. in den Bereichen
+Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für lokal/regional organisierte und überregional agierende Genossenschaften für Umweltmanagement zu entwickeln. Die Basis bildet ein interdiszipilnäres Team z.B. in den Bereichen
 
 * Umweltrecht
 * THG-Bilanzierung,
