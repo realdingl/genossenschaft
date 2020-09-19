@@ -1,0 +1,2 @@
+# genossenschaft
+Business Plan Genossenschaftsmodell Umweltmanagement
