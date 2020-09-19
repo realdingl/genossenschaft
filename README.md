@@ -8,7 +8,6 @@ Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für Genossenschaften
 * Landschaftsplanung,
 * auch Umweltzertifizierungen,
 * Projektmanagement etc.) 
-* Zertifizierungen
 zu entwickeln.
 
 Die Genossenschaft organisiert die Schnittmengen wie
