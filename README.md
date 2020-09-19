@@ -28,4 +28,4 @@ Die Genossenschaft finanziert sich aus
 
 Wo könnten Probleme liegen?
 
-Das Konzept wird erstmal in der README.md begonnen.
+Das Konzept wird erstmal als Brainstorming in der README.md begonnen.
