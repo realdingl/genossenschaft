@@ -6,7 +6,7 @@ Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für Genossenschaften
 * Umweltrecht
 * THG-Bilanzierung,
 * Landschaftsplanung,
-* auch Umweltzertifizierungen,
+* Umweltzertifizierungen,
 * Projektmanagement etc.) 
 zu entwickeln.
 
