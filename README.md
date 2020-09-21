@@ -32,6 +32,11 @@ Die lokale Genossenschaft organisiert die Schnittmengen wie
 
 Sie stellt ferner die Mitglieder an auf einer Basis, die eine Art soziale Grundabsicherung gewährleistet. Im Rahmen ihrer Angestelltentätigkeit bearbeiten die Mitglieder die Kernaufgaben der Genossenschaft. Die Mitglieder bleiben im Übrigen grundsätzlich überwiegend selbständig tätig.
 
+Die Genosssenschaftsverb#ände betreiben 
+* die Markenbildung (eine Art Franchise-Modell)
+* gemeinsame Technologieplattformen
+* übergeordnete Aufgaben, mit denen die lokalen Einheiten überfordert wären.
+
 ### Finanzierung
 Die Genossenschaft finanziert sich aus
 
