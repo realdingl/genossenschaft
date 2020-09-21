@@ -26,10 +26,13 @@ Sie stellt ferner die Mitglieder an auf einer Basis, die eine Art soziale Grunda
 ### Finanzierung
 Die Genossenschaft finanziert sich aus
 
-* eigenen Produkten,
+* eigenen Produkten und Dienstleistungen,
 * Beteiligungen sowie einem
 * Anteil von zum Beispiel 15 % aus den Umsätzen der Mitglieder.
 
 Wo könnten Probleme liegen?
+
+### Satzungsgestaltung
+* Wir kann man die Satzung so gestalten, dasss ein ausgewogenes und nachhaltiges Verhältnis an sozialen und wirtschaftlichen (auch  Gewinnorientierung) Erfolgsfaktoren erreicht wird?
 
 Das Konzept wird erstmal als Brainstorming in der README.md begonnen.
