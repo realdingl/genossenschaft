@@ -1,13 +1,17 @@
 # genossenschaft
 ## Genossenschaftsmodell für Umweltmanagement
 
+###Prämissen
+
+###Idee
+
 Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für lokal/regional organisierte und überregional agierende Genossenschaften für Umweltmanagement zu entwickeln. Die Basis bildet ein interdiszipilnäres Team z.B. in den Bereichen
 
 * Umweltrecht
 * THG-Bilanzierung,
 * Landschaftsplanung,
 * Umweltzertifizierungen,
-* Projektmanagement etc.) 
+* Projektmanagement etc.)
 zu entwickeln.
 
 Die Genossenschaft organisiert die Schnittmengen wie
@@ -19,6 +23,7 @@ Die Genossenschaft organisiert die Schnittmengen wie
 
 Sie stellt ferner die Mitglieder an auf einer Basis, die eine Art soziale Grundabsicherung gewährleistet. Im Rahmen ihrer Angestelltentätigkeit bearbeiten die Mitglieder die Kernaufgaben der Genossenschaft. Die Mitglieder bleiben im Übrigen grundsätzlich überwiegend selbständig tätig.
 
+###Finanzierung
 Die Genossenschaft finanziert sich aus
 
 * eigenen Produkten,
