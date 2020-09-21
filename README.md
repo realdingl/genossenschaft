@@ -5,7 +5,7 @@
 * Umweltbewusstsein wird zum wichtigsten Megatrend der kommenden Jahre, Nachhaltigkeit zum wichtigsten Wirtschaftsfaktor.(https://www.zukunftsinstitut.de/artikel/der-wichtigste-megatrend-unserer-zeit/)
 * Individuen und Organisationen sind auf die bevorstehenden Veränderungen nicht im erforderlichen Maße vorbereitet und benötigen professionelle Unterstützung
 * Es fehlt eine globale Marke für Umweltmanagement im obigen Sinne, gleichzeitig besteht Bedarf nach einer solchen.
-* Krisen wie die Klimakrise können sich destabilisierend auf die freiheitliche demokratische Grundordnung auswirken. Dem kann und muss die FDGO entgegensteuern, indem sie den Menschen Sichehrheit vermittelt, die Menschen befähigt und die öffentliche Infrastruktur intakt hält (vgl. auch https://libmod.de/sicherheit-im-wandel-antwort-auf-antiliberale-revolte/). 
+* Krisen wie die Klimakrise können sich destabilisierend auf die freiheitliche demokratische Grundordnung (FDGO) auswirken. Dem kann und muss die FDGO entgegensteuern, indem sie den Menschen Sichehrheit vermittelt, die Menschen befähigt und die öffentliche Infrastruktur intakt hält (vgl. auch https://libmod.de/sicherheit-im-wandel-antwort-auf-antiliberale-revolte/). 
 * Die o.g. demokratiestabilsierenden Funktionen können und müssen auch auf Ebene der ökonomischen Systemgestaltung umgesetzt werden.
 
 ### Idee
