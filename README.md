@@ -35,6 +35,7 @@ Sie stellt ferner die Mitglieder an auf einer Basis, die eine Art soziale Grunda
 Die Genosssenschaftsverbände betreiben 
 * die Markenbildung (eine Art Franchise-Modell)
 * gemeinsame Technologieplattformen
+* rechtliche Beratung und Unterstützung (z.B. Vergaberecht)
 * übergeordnete Aufgaben, mit denen die lokalen Einheiten überfordert wären.
 
 ### Finanzierung
