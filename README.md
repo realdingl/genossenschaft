@@ -3,6 +3,8 @@
 
 ### Prämissen
 * Umweltbewusstsein wird zum wichtigsten Megatrend der kommenden Jahre, Nachhaltigkeit zum wichtigsten Wirtschaftsfaktor.(https://www.zukunftsinstitut.de/artikel/der-wichtigste-megatrend-unserer-zeit/)
+* Individuen und Organisationen sind auf die bevorstehenden Veränderungen nicht im erforderlichen Maße vorbereitet und benötigen professionelle Unterstützung
+* Es fehlt eine globale Marke für Umweltmanagement im obigen Sinne, gleichzeitig besteht Bedarf nach einer solchen.
 
 ### Idee
 
