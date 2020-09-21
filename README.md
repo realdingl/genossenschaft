@@ -2,6 +2,7 @@
 ## Genossenschaftsmodell für Umweltmanagement
 
 ### Prämissen
+* Umweltbewusstsein wird zum wichtigsten Megatrend der kommenden Jahre, Nachhaltigkeit zum wichtigsten Wirtschaftsfaktor.(https://www.zukunftsinstitut.de/artikel/der-wichtigste-megatrend-unserer-zeit/)
 
 ### Idee
 
