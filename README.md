@@ -10,16 +10,20 @@
 
 ### Idee
 
-Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für lokal/regional organisierte und überregional agierende Genossenschaften für Umweltmanagement zu entwickeln. Die Basis bildet ein interdiszipilnäres Team z.B. in den Bereichen
+Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für
+* lokal/regional organisierte und überregional agierende Genossenschaften 
+* global agierende Genossenschaftsverbände
+im Bereich Umweltmanagement zu entwickeln. 
+
+Die Basis der lokalen Einheiten bilden interdiszipilnäre Teams z.B. in den Bereichen
 
 * Umweltrecht
 * THG-Bilanzierung,
 * Landschaftsplanung,
 * Umweltzertifizierungen,
-* Projektmanagement etc.)
-zu entwickeln.
+* Projektmanagement etc.).
 
-Die Genossenschaft organisiert die Schnittmengen wie
+Die lokale Genossenschaft organisiert die Schnittmengen wie
 
 * Beteiligungen,
 * Bürogemeinschaft,
