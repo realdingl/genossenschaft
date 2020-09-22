@@ -12,7 +12,7 @@
 
 Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für
 * lokal/regional organisierte und überregional agierende Organisationen, z.B. Genossenschaften 
-* global agierende Wirtschaftsverbänge, z.B. Genossenschaftsverbände
+* global agierende Wirtschaftsverbände, z.B. Genossenschaftsverbände
 im Bereich Umweltmanagement zu entwickeln. 
 
 Die Basis der lokalen Einheiten bilden interdiszipilnäre Teams z.B. in den Bereichen
