@@ -1,5 +1,5 @@
 # genossenschaft
-## Genossenschaftsmodell für Umweltmanagement
+## Wirtschaftsmodell für Umweltmanagement
 
 ### Prämissen
 * Umweltbewusstsein wird zum wichtigsten Megatrend der kommenden Jahre, Nachhaltigkeit zum wichtigsten Wirtschaftsfaktor.(https://www.zukunftsinstitut.de/artikel/der-wichtigste-megatrend-unserer-zeit/)
@@ -38,8 +38,11 @@ Die Genosssenschaftsverbände betreiben
 * rechtliche Beratung und Unterstützung (z.B. Vergaberecht)
 * übergeordnete Aufgaben, mit denen die lokalen Einheiten überfordert wären.
 
+### Vorformen und Einstiege
+Vielleicht ist die Festlegung auf eine Genossenschaft schon zu speziell -- wenn zum Beispiel ein Schwung Leute erstmal nur als Verein anfangen; oder drei Aktivisten, die noch nicht die Masse für so eine Rechtsform haben, aber sich trotzdem eine vernünftige Struktur geben wollen. Zumindest müsste man Vorformen und Einstiege vorsehen für die Zeit bis zur Genossenschaft (auf eine Art, die dann gut in eine solche überführbar ist).
+
 ### Finanzierung
-Die Genossenschaft finanziert sich aus
+Die Finanzierung erfolgt aus
 
 * eigenen Produkten und Dienstleistungen,
 * Beteiligungen sowie einem
