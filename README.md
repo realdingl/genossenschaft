@@ -15,7 +15,7 @@ Grundsätzliche Idee ist, ein Open Source-Geschäftsmodell für
 * global agierende Wirtschaftsverbände, z.B. Genossenschaftsverbände
 im Bereich Umweltmanagement zu entwickeln. 
 
-Die Basis der lokalen Einheiten bilden interdiszipilnäre Teams z.B. in den Bereichen
+Die Basis der lokalen Einheiten bilden interdisziplinäre Teams z.B. in den Bereichen
 
 * Umweltrecht
 * THG-Bilanzierung,
